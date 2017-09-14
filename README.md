@@ -11,13 +11,15 @@ Kommunikation vorzugsweise über die [Mattermost Gruppe](#linkfolgt) ([Einladung
 Die Grundlagen von modernen Microservice-Architekturen werden anhand von typischen Architekturmerkmalen und gängigen Tools erläutert. Die Themen werden in Form von Präsenzübungen und einem gemeinsamen Projekt mit mehreren Microservice-Komponenten vertieft. Im Vordergrund stehen nicht die verwendeten Programmiersprachen, sondern die sinnvolle Architektur von klein geschnittenen unabhängigen Komponenten. 
 
 # Aufgaben und Leistungsnachweis
-Der Leistungsnachweis wird in Form einer mündlichen Prüfung Prüfungszeitraum am Ende des Semesters erbracht. (ca. 15-20 min). Während des Semesters erarbeiten die Studenten zusätzlich eine kurze Präsentation zu einem Wahlthema aus dem Bereich Microservices. (ca. 10-15 min) Die gelernten Themen werden Übungsaufgaben vertieft.
+Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitraum am Ende des Semesters erbracht. (ca. 15-20 min). Während des Semesters erarbeiten die Studenten zusätzlich eine kurze Präsentation zu einem Wahlthema aus dem Bereich Microservices. (ca. 10-15 min) Die gelernten Themen werden durch Übungsaufgaben vertieft.
 
 # Tools
 * IntelliJ Idea
 * Docker
 * Payara Micro
 * Gradle oder Maven
+* Travis CI
+* github
 
 # Literaturempfehlungen
 * Sam Newman. Building Microservices. O'Reilly, isbn: 978-1491950357
