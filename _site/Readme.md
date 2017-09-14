@@ -126,6 +126,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * OAuth
 * OpenID Connect
 * SAML
+
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
 ## 10. UI/FrontEnd (11.01.2017)
@@ -146,4 +147,5 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-_Alle Angaben vorbehaltlich von Änderungen.
+
+*Alle Angaben vorbehaltlich von Änderungen.*
