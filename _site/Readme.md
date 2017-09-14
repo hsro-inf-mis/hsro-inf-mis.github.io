@@ -31,7 +31,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Jonas Bonér: Reactive Microservies Archictecture – Design Principles of Districuted Systems O’Reilly (2016)
 
 # Inhalt
-## 1. Bausteiner einer Microservice Architektur (05.10.2017)
+## 1. Bausteine einer Microservice Architektur (05.10.2017)
 ### Dozent: Tobias
 * Einführung
 * Microservices vs. Monolithen 
@@ -66,12 +66,14 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 ## 4. Service Discovery u. API-Gateways (09.11.2017 & 16.11.2017)
 ### Dozent: Peter
+
 **Service Discovery**
 * Consul
 * etcd
 * ZooKeeper
 * DNS SRV Records
 * Gosip Protocol
+
 **API-Gateways**
 * Kong
 * NGinx
@@ -138,7 +140,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 11. Microservies in der Public-Cloud (18.01.2017)
+## 11. Microservices in der Public-Cloud (18.01.2017)
 ### Dozent: Tobias
 * Serverless Computing (Function as a Service)
 * HDFS - allgemein verteilte Dateisysteme
