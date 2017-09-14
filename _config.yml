@@ -1,0 +1,17 @@
+title: "Microservices (MIS)"
+email: t.jonas@innFactory.de
+description: "Materialien zum Fachwissenschaftliches Microservices"
+baseurl: ""
+url: "https://hsro-inf-mis.github.io"
+exclude: ["LICENSE", "Remarks.md"]
+github_username: ["jona7o", "baez90"]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
