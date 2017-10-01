@@ -4,7 +4,7 @@ _Fachwissenschaftliches Wahlpflichtmodul in den Bachelorstudiengängen Informati
 
 **Vorlesungstermin**: Donnerstag 4.,5. Stunde
 
-Kommunikation vorzugsweise über die [Mattermost Gruppe](#linkfolgt) ([Einladungslink](#linkfolgt)).
+Kommunikation vorzugsweise über die [Mattermost Gruppe](#linkfolgt) ([Einladungslink](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=f9j9hzaob3yiidh331d5zu5b5r)).
 
 
 # Kurzbeschreibung des Moduls
