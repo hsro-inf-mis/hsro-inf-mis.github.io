@@ -44,7 +44,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Even Driven/Message Drive (Kafka, ZeroMQ, RabbitMQ, etc)
 * Reactive Microservices
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/01-Bausteine-einer-Microservice-Architektur), [Übungsaufgaben](https://classroom.github.com/a/chWauzad))
 
 ## 2. Container u. Provisionierung (12.10.2017 & 19.10.2017)	
 ### Dozent: Peter
