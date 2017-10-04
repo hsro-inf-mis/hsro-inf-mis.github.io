@@ -8,7 +8,7 @@ Kommunikation vorzugsweise über die [Mattermost Gruppe](https://inf-mattermost.
 
 
 # Kurzbeschreibung des Moduls
-Die Grundlagen von modernen Microservice-Architekturen werden anhand von typischen Architekturmerkmalen und gängigen Tools erläutert. Die Themen werden in Form von Präsenzübungen und einem gemeinsamen Projekt mit mehreren Microservice-Komponenten vertieft. Im Vordergrund stehen nicht die verwendeten Programmiersprachen, sondern die sinnvolle Architektur von klein geschnittenen unabhängigen Komponenten. 
+Die Grundlagen von modernen Microservice-Architekturen werden anhand von typischen Architekturmerkmalen und gängigen Tools erläutert. Die Themen werden in Form von Präsenzübungen vertieft. Im Vordergrund stehen nicht die verwendeten Programmiersprachen, sondern die sinnvolle Architektur von klein geschnittenen unabhängigen Komponenten. Die Unterlagen sind auf Englisch die Vorträge auf Deutsch.
 
 # Aufgaben und Leistungsnachweis
 Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitraum am Ende des Semesters erbracht. (ca. 15-20 min). Während des Semesters erarbeiten die Studenten zusätzlich eine kurze Präsentation zu einem Wahlthema aus dem Bereich Microservices. (ca. 10-15 min) Die gelernten Themen werden durch Übungsaufgaben vertieft.
@@ -17,9 +17,10 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * IntelliJ Idea
 * Docker
 * Payara Micro
-* Gradle oder Maven
+* Gradle, Maven und sbt
 * Travis CI
 * github
+* jdk8, jdk9
 
 # Literaturempfehlungen
 * Sam Newman. Building Microservices. O'Reilly, isbn: 978-1491950357
@@ -31,18 +32,16 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Jonas Bonér: Reactive Microservies Archictecture – Design Principles of Districuted Systems O’Reilly (2016)
 
 # Inhalt
-## 1. Bausteine einer Microservice Architektur (05.10.2017)
+## 1. Building Blocks for Microservices (05.10.2017)
 ### Dozent: Tobias
-* Einführung
-* Microservices vs. Monolithen 
-* Pro u. Contra 
-* SMACK Stack
-* Lambda-Architektur
-* MS Frameworks: Akka Cluster / Lagom / Vert.x / Spring Boot
-* Circuit Braker
+* Monolithic vs. Microservices
+* Microservices pro and cons
+* Design Pattern and Concepts
+* Lambda & SMACK Stack
 * Reactivo Manifesto
-* Even Driven/Message Drive (Kafka, ZeroMQ, RabbitMQ, etc)
-* Reactive Microservices
+* Microservice frameworks
+* Reactive microservices
+
 
 --- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/01-Bausteine-einer-Microservice-Architektur), [Übungsaufgaben](https://classroom.github.com/a/chWauzad))
 
