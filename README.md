@@ -93,8 +93,9 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 ## 6. Testen (30.11.2017)
 ### Dozent: Tobias
 * Swagger/OpenAPI
-* Lasttests mit gatling
-* ???
+* Load testing with gatling
+* A/B Testing
+* Feature Toggles
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
