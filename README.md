@@ -61,7 +61,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * GitLab CD u. Environments
 * Cloud Foundry
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](https://classroom.github.com/a/xuFNT0g0))
 
 ## 4. Service Discovery u. API-Gateways (09.11.2017 & 16.11.2017)
 ### Dozent: Peter
