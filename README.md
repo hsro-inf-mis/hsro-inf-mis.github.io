@@ -53,7 +53,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Cluster-Management (Mesos, Nomad)
 * Scaling
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/02-Container-and-Provisioning), [Übungsaufgaben](https://classroom.github.com/a/dfAok9T0))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/02-Container-and-Provisioning), [Übungsaufgabe 1](https://classroom.github.com/a/dfAok9T0) [Übungsaufgabe 2](https://classroom.github.com/a/xuFNT0g0))
 
 ## 3. DevOps (26.10.2017 & 02.11.2017)
 ### Dozent: Tobias (26.10.2017) & Peter (02.11.2017)
@@ -61,7 +61,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * GitLab CD u. Environments
 * Cloud Foundry
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](https://classroom.github.com/a/xuFNT0g0))
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
 ## 4. Service Discovery u. API-Gateways (09.11.2017 & 16.11.2017)
 ### Dozent: Peter
