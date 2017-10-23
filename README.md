@@ -57,7 +57,12 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 ## 3. DevOps (26.10.2017 & 02.11.2017)
 ### Dozent: Tobias (26.10.2017) & Peter (02.11.2017)
-* Continuous Deployment
+* Introduction 
+* continuous integration 
+* continuous delivery
+* continuous deployment
+* jenkins & travis ci
+* IaaC
 * GitLab CD u. Environments
 * Cloud Foundry
 
