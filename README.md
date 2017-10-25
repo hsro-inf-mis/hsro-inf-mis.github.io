@@ -66,7 +66,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * GitLab CD u. Environments
 * Cloud Foundry
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/03-DevOps), [Übungsaufgabe 1](https://classroom.github.com/a/G77h1q0E))
 
 ## 4. Service Discovery u. API-Gateways (09.11.2017 & 16.11.2017)
 ### Dozent: Peter
