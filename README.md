@@ -84,7 +84,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * HAProxy
 * ServiceFabric
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/04-Service_Discovery-APIGateways), [Übungsaufgaben](#))
 
 ## 5. Protokolle zum Datenaustausch  (23.11.2017)
 ### Dozent: Tobias
