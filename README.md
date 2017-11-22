@@ -86,14 +86,18 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 5. Protokolle zum Datenaustausch  (23.11.2017)
+## 5. Communication  (23.11.2017)
 ### Dozent: Tobias
-* Service Communication
-* REST
-* GraphQL
+* Overview
+* REST 
 * gRPC
+* MQTT (in an IoT World)
+* Backend 4 Frontend Pattern (REST)
+* graphQL
+* Messaging
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/05-Communication), [Übungsaufgaben](#))
 
 ## 6. Testen (30.11.2017)
 ### Dozent: Tobias
