@@ -86,14 +86,18 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 --- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/04-Service_Discovery-APIGateways), [Übungsaufgabe 1](https://classroom.github.com/a/E-2ipyRT) [Übungsaufgabe 2](https://classroom.github.com/a/UgvZIGG1)  )
 
-## 5. Protokolle zum Datenaustausch  (23.11.2017)
+## 5. Communication  (23.11.2017)
 ### Dozent: Tobias
-* Service Communication
-* REST
-* GraphQL
+* Overview
+* REST 
 * gRPC
+* MQTT (in an IoT World)
+* Backend 4 Frontend Pattern (REST)
+* graphQL
+* Messaging
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/05-Communication), [Übungsaufgaben](#))
 
 ## 6. Testen (30.11.2017)
 ### Dozent: Tobias
