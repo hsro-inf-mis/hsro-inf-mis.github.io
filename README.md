@@ -97,7 +97,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Messaging
 
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/05-Communication), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/05-Communication), [Übungsaufgaben](https://classroom.github.com/a/ImXO99Wk)
 
 ## 6. Testen (30.11.2017)
 ### Dozent: Tobias
