@@ -109,7 +109,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * A/B test
 
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/06-Testing), [Übungsaufgaben](https://classroom.github.com/a/jdKtdl7U))
 
 ## 7. Data Persistence (07.12.2017)
 ### Dozent: Tobias 
