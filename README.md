@@ -65,6 +65,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * IaaC
 * GitLab CD u. Environments
 * Cloud Foundry
+* Feature Toggles
 
 --- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/03-DevOps), [Übungsaufgabe 1](https://classroom.github.com/a/G77h1q0E), [Übungsaufgabe 2](https://classroom.github.com/a/NuNeJ5xf))
 
@@ -99,12 +100,14 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 --- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/05-Communication), [Übungsaufgaben](https://classroom.github.com/a/ImXO99Wk)
 
-## 6. Testen (30.11.2017)
+## 6. Testing (30.11.2017)
 ### Dozent: Tobias
-* Swagger/OpenAPI
-* Load testing with gatling
-* A/B Testing
-* Feature Toggles
+* Overview
+* Testing Strategies
+* Distributed Tracing Tools
+* Performance test
+* A/B test
+
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
