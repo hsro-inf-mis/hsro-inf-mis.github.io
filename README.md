@@ -113,13 +113,14 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 ## 7. Data Persistence (07.12.2017)
 ### Dozent: Tobias 
-* CRUD (Wiederholung)
-* CAP Theorem
-* NoSQL Überblick 
-* CQRS / Event Sourcing
-* Akka Persistence
+* Overview 
+* Pattern and Anti-Pattern
+* Caching 
+* Event Sourcing / CQRS / Sagas
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/07-DataPersistence), [Übungsaufgaben](https://classroom.github.com/a/p3ixBMRN))
+
 ## 8. Logging u. Monitoring (14.12.2017)
 ### Dozent: Peter
 
