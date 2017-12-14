@@ -133,7 +133,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * ELK
 * Grafana
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](https://classroom.github.com/a/lSK2DEBz))
 
 ## 9. Security (21.12.2017)
 ### Dozent: Peter
