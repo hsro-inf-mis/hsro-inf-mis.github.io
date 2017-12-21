@@ -142,7 +142,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * OpenID Connect
 * SAML
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/09-Security), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/09-Security), [Übungsaufgaben](https://classroom.github.com/a/kkigaVDX))
 
 ## 10. UI/FrontEnd (11.01.2017)
 ### Dozent: Tobias (Gast: Anton Spöck)
