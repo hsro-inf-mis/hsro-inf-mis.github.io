@@ -146,12 +146,15 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 ## 10. UI/FrontEnd (11.01.2017)
 ### Dozent: Tobias (Gast: Anton Spöck)
-* Web Components
-* Serverside Rending, In-App Rendering
-* Login etc.
-* ???
+* UI In A Microservice Architecture
+* The classical approach
+* The fullstack approach
+* Comparison
+* Problems with a Microservice Architecture in a GUI
+* Styleguides
+* Latest UI trends
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/10-UI), [Übungsaufgaben](https://classroom.github.com/a/MvEK8ysQ))
 
 ## 11. Microservices in der Public-Cloud (18.01.2017)
 ### Dozent: Tobias
