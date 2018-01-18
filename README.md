@@ -153,6 +153,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Problems with a Microservice Architecture in a GUI
 * Styleguides
 * Latest UI trends
+Blogbeitrag dazu: [UI in einer Microservice Architektur](https://innfactory.de/de/blog/43-microservices-cloud-computing/70-ui-in-einer-microservice-architektur)
 
 --- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/10-UI), [Übungsaufgaben](https://classroom.github.com/a/MvEK8ysQ))
 
