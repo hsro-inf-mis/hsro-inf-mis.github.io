@@ -156,14 +156,9 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 
 --- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/10-UI), [Übungsaufgaben](https://classroom.github.com/a/MvEK8ysQ))
 
-## 11. Microservices in der Public-Cloud (18.01.2017)
+## 11. Revision (18.01.2017)
 ### Dozent: Tobias
-* Serverless Computing (Function as a Service)
-* HDFS - allgemein verteilte Dateisysteme
-* AWS API Gateway
-* Was ist BigData?
-
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
-
+* Summary
+* Time for your questions
 
 *Alle Angaben vorbehaltlich von Änderungen.*
