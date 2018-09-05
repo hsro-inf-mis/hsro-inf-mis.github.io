@@ -32,134 +32,79 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 * Jonas Bonér: Reactive Microservies Archictecture – Design Principles of Districuted Systems O’Reilly (2016)
 
 # Inhalt
-## 1. Building Blocks for Microservices (05.10.2017)
+## 1. Building Blocks for Microservices & Tooling (02.10.2018)
 ### Dozent: Tobias
-* Monolithic vs. Microservices
-* Microservices pro and cons
-* Design Pattern and Concepts
-* Lambda & SMACK Stack
-* Reactivo Manifesto
-* Microservice frameworks
-* Reactive microservices
 
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/01-Microservice-Building-Blocks), [Übungsaufgaben](https://classroom.github.com/a/chWauzad))
+## 2. Webprogramming Basics - Play2 Webframework (09.10.2018)
+### Dozent: Tobias
 
-## 2. Container u. Provisionierung (12.10.2017 & 19.10.2017)	
-### Dozent: Peter
-* docker
-* docker compose
-* Docker Cluster (DC/OS, Kubernetes, Swarm, Rancher)
-* Cluster-Management (Mesos, Nomad)
-* Scaling
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/02-Container-and-Provisioning), [Übungsaufgabe 1](https://classroom.github.com/a/dfAok9T0) [Übungsaufgabe 2](https://classroom.github.com/a/xuFNT0g0))
+## 3. Webprogramming Basics 2 - Play2 Webframework (16.10.2018)
+### Dozent: Tobias
 
-## 3. DevOps (26.10.2017 & 02.11.2017)
-### Dozent: Tobias (26.10.2017) & Peter (02.11.2017)
-* Introduction 
-* continuous integration 
-* continuous delivery
-* continuous deployment
-* jenkins & travis ci
-* IaaC
-* GitLab CD u. Environments
-* Cloud Foundry
-* Feature Toggles
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/03-DevOps), [Übungsaufgabe 1](https://classroom.github.com/a/G77h1q0E), [Übungsaufgabe 2](https://classroom.github.com/a/NuNeJ5xf))
-
-## 4. Service Discovery u. API-Gateways (09.11.2017 & 16.11.2017)
+## 4. Container - Basics (23.10.2018)
 ### Dozent: Peter
 
-**Service Discovery**
-* Consul
-* etcd
-* ZooKeeper
-* DNS SRV Records
-* Gosip Protocol
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-**API-Gateways**
-* Kong
-* NGinx
-* HAProxy
-* ServiceFabric
-
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/04-Service_Discovery-APIGateways), [Übungsaufgabe 1](https://classroom.github.com/a/E-2ipyRT) [Übungsaufgabe 2](https://classroom.github.com/a/UgvZIGG1)  )
-
-## 5. Communication  (23.11.2017)
-### Dozent: Tobias
-* Overview
-* REST 
-* gRPC
-* MQTT (in an IoT World)
-* Backend 4 Frontend Pattern (REST)
-* graphQL
-* Messaging
-
-
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/05-Communication), [Übungsaufgaben](https://classroom.github.com/a/ImXO99Wk)
-
-## 6. Testing (30.11.2017)
-### Dozent: Tobias
-* Overview
-* Testing Strategies
-* Distributed Tracing Tools
-* Performance test
-* A/B test
-
-
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/06-Testing), [Übungsaufgaben](https://classroom.github.com/a/jdKtdl7U))
-
-## 7. Data Persistence (07.12.2017)
-### Dozent: Tobias 
-* Overview 
-* Pattern and Anti-Pattern
-* Caching 
-* Event Sourcing / CQRS / Sagas
-
-
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/07-DataPersistence), [Übungsaufgaben](https://classroom.github.com/a/p3ixBMRN))
-
-## 8. Logging u. Monitoring (14.12.2017)
+## 5. Container 2 - Advanced (30.10.2018)
 ### Dozent: Peter
 
-**Logging**
-* ElasticSearch, Logstash, Kibana (ELK)
-* Syslog (Graylog)
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-**Monitoring**
-* Prometheus
-* ELK
-* Grafana
-
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/08-Logging-Monitoring), [Übungsaufgaben](https://classroom.github.com/a/lSK2DEBz))
-
-## 9. Security (21.12.2017)
+## 6. Container 3 - Minikube & Kubernetes (06.11.2018)
 ### Dozent: Peter
-* JWT
-* OAuth
-* OpenID Connect
-* SAML
 
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/09-Security), [Übungsaufgaben](https://classroom.github.com/a/kkigaVDX))
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 10. UI/FrontEnd (11.01.2017)
-### Dozent: Tobias (Gast: Anton Spöck)
-* UI In A Microservice Architecture
-* The classical approach
-* The fullstack approach
-* Comparison
-* Problems with a Microservice Architecture in a GUI
-* Styleguides
-* Latest UI trends
-Blogbeitrag dazu: [UI in einer Microservice Architektur](https://innfactory.de/de/blog/43-microservices-cloud-computing/70-ui-in-einer-microservice-architektur)
-
---- ([Vorlesungsmaterialien](https://github.com/hsro-inf-mis/Lectures/tree/master/10-UI), [Übungsaufgaben](https://classroom.github.com/a/MvEK8ysQ))
-
-## 11. Revision (18.01.2017)
+## 7. DevOps 1 - Intro (13.11.2018)
 ### Dozent: Tobias
-* Summary
-* Time for your questions
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 8. DevOps 2 - GitLab CI / CD (20.11.2018)
+### Dozent: Tobias
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 9. DevOps 3 - k8s Helm, k8s in der Public Cloud (27.11.2018)
+### Dozent: Peter & Tobias
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 10. Service Disovery & API Gateways 1 (04.12.2018)
+### Dozent: Peter
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 11. Service Discovery & API Gateway 2 (11.12.2018)
+### Dozent: Peter
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 12. Security (18.12.2018)
+### Dozent: Peter
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 13. Data Persistence (08.01.2019)
+### Dozent: Tobias
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 14. Logging & Monitoring (15.01.2019)
+### Dozent: Peter
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+
+## 15. UI / UX in Microservice Architekturen & Prüfungsvorbereitung (22.01.2019)
+### Dozent: Gast, Tobias, Peter
+
+--- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
 *Alle Angaben vorbehaltlich von Änderungen.*
