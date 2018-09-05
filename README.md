@@ -6,6 +6,7 @@ _Fachwissenschaftliches Wahlpflichtmodul in den Bachelorstudiengängen Informati
 
 Kommunikation vorzugsweise über die [Mattermost Gruppe](https://inf-mattermost.fh-rosenheim.de/mis-ws1819/channels/town-square) ([Einladungslink](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=ziqecjhk97dgfnit5y7fq4g9ze)).
 
+github classroom: https://classroom.github.com/classrooms/31311683-microservices-ws18-19
 
 # Kurzbeschreibung des Moduls
 Die Grundlagen von modernen Microservice-Architekturen werden anhand von typischen Architekturmerkmalen und gängigen Tools erläutert. Die Themen werden in Form von Präsenzübungen vertieft. Im Vordergrund stehen nicht die verwendeten Programmiersprachen, sondern die sinnvolle Architektur von klein geschnittenen unabhängigen Komponenten. Die Unterlagen sind auf Englisch die Vorträge auf Deutsch.
