@@ -2,9 +2,9 @@ _Fachwissenschaftliches Wahlpflichtmodul in den Bachelorstudiengängen Informati
 
 # Organisatorisches
 
-**Vorlesungstermin**: Donnerstag 4.,5. Stunde
+**Vorlesungstermin**: Dienstag 2.,3. Stunde
 
-Kommunikation vorzugsweise über die [Mattermost Gruppe](https://inf-mattermost.fh-rosenheim.de/mis-ws1718/channels/town-square) ([Einladungslink](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=f9j9hzaob3yiidh331d5zu5b5r)).
+Kommunikation vorzugsweise über die [Mattermost Gruppe](https://inf-mattermost.fh-rosenheim.de/mis-ws1819/channels/town-square) ([Einladungslink](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=ziqecjhk97dgfnit5y7fq4g9ze)).
 
 
 # Kurzbeschreibung des Moduls
