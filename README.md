@@ -6,22 +6,28 @@ _Fachwissenschaftliches Wahlpflichtmodul in den Bachelorstudiengängen Informati
 
 Kommunikation vorzugsweise über die [Mattermost Gruppe](https://inf-mattermost.fh-rosenheim.de/mis-ws1819/channels/town-square) ([Einladungslink](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=ziqecjhk97dgfnit5y7fq4g9ze)).
 
-github classroom: https://classroom.github.com/classrooms/31311683-microservices-ws18-19
+GitHub Classroom: https://classroom.github.com/classrooms/31311683-microservices-ws18-19
 
 # Kurzbeschreibung des Moduls
-Die Grundlagen von modernen Microservice-Architekturen werden anhand von typischen Architekturmerkmalen und gängigen Tools erläutert. Die Themen werden in Form von Präsenzübungen vertieft. Im Vordergrund stehen nicht die verwendeten Programmiersprachen, sondern die sinnvolle Architektur von klein geschnittenen unabhängigen Komponenten. Die Unterlagen sind auf Englisch die Vorträge auf Deutsch.
+Die Grundlagen von modernen Microservice-Architekturen werden anhand von typischen Architekturmerkmalen und gängigen Tools erläutert.
+Die Themen werden in Form von Präsenzübungen vertieft.
+Im Vordergrund stehen nicht die verwendeten Programmiersprachen, sondern die sinnvolle Architektur von klein geschnittenen unabhängigen Komponenten.
+Die Unterlagen sind auf Englisch die Vorträge auf Deutsch.
 
 # Aufgaben und Leistungsnachweis
-Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitraum am Ende des Semesters erbracht. (ca. 15-20 min). Während des Semesters erarbeiten die Studenten zusätzlich eine kurze Präsentation zu einem Wahlthema aus dem Bereich Microservices. (ca. 10-15 min) Die gelernten Themen werden durch Übungsaufgaben vertieft.
+Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitraum am Ende des Semesters erbracht. (ca. 15-20 min).
+Während des Semesters erarbeiten die Studenten zusätzlich eine kurze Präsentation zu einem Wahlthema aus dem Bereich Microservices. (ca. 10-15 min)
+Die gelernten Themen werden durch Übungsaufgaben vertieft.
 
 # Tools
 * IntelliJ Idea
 * Docker
-* Payara Micro
-* Gradle, Maven und sbt
-* Travis CI
-* github
-* jdk8, jdk9
+* Gradle, sbt
+* Git/GitHub/GitLab
+* JDK8, JDK9/10/11
+* Minikube
+* Helm
+* Bash/Powershell
 
 # Literaturempfehlungen
 * Sam Newman. Building Microservices. O'Reilly, isbn: 978-1491950357
