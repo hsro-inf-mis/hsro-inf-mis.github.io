@@ -36,7 +36,7 @@ Der Leistungsnachweis wird in Form einer mündlichen Prüfung im Prüfungszeitra
 ## 1. Building Blocks for Microservices & Tooling (02.10.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/01/introduction.pdf), [Vorlesungsmaterialien 2](https://hsro-inf-mis.github.io/assets/01/building-blocks.pdf), [Übungsaufgaben](#))
 
 ## 2. Webprogramming Basics - Play2 Webframework (09.10.2018)
 ### Dozent: Tobias
