@@ -47,7 +47,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 2. Webprogramming Basics - Play2 Webframework (09.10.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/02/webservices-with-scala-1.pdf), [Übungsaufgaben](https://hsro-inf-mis.github.io/assets/02/Exercises.pdf))
 
 ## 3. Webprogramming Basics 2 - Play2 Webframework (16.10.2018)
 ### Dozent: Tobias
