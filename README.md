@@ -49,15 +49,15 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 
 --- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/02/webservices-with-scala-1.pdf), [Übungsaufgaben](https://hsro-inf-mis.github.io/assets/02/Exercises.pdf))
 
-## 3. Webprogramming Basics 2 - Play2 Webframework (16.10.2018)
-### Dozent: Tobias
-
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
-
-## 4. Container - Basics (23.10.2018)
+## 3. Container - Basics (16.10.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](/assets/04/04-container-basics.pdf), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/04/04-container-basics.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-2-Container))
+
+## 4. Webprogramming Basics 2 - Play2 Webframework (23.10.2018)
+### Dozent: Tobias
+
+--- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/02/webservices-with-scala-2.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/play2-iot-manager))
 
 ## 5. Container 2 - Advanced (30.10.2018)
 ### Dozent: Peter
