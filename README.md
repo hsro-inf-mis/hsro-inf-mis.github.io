@@ -57,7 +57,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 4. Container - Basics (23.10.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/04/04-container-basics.pdf), [Übungsaufgaben](#))
 
 ## 5. Container 2 - Advanced (30.10.2018)
 ### Dozent: Peter
