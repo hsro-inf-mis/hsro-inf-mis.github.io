@@ -52,7 +52,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 3. Container - Basics (16.10.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](/assets/04/04-container-basics.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-2-Container))
+--- ([Vorlesungsmaterialien](/assets/03/03-container-basics.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-2-Container))
 
 ## 4. Webprogramming Basics 2 - Play2 Webframework (23.10.2018)
 ### Dozent: Tobias
