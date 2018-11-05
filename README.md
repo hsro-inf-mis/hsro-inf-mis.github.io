@@ -62,12 +62,12 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 5. Container 2 - Advanced (30.10.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/03/03-container-advanced.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-4-Docker-Compose))
 
 ## 6. Container 3 - Minikube & Kubernetes (06.11.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/03/03-container-k8s.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-5-K8s))
 
 ## 7. DevOps 1 - Intro (13.11.2018)
 ### Dozent: Tobias
@@ -115,3 +115,4 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
 *Alle Angaben vorbehaltlich von Änderungen.*
+
