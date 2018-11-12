@@ -69,48 +69,38 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 
 --- ([Vorlesungsmaterialien](/assets/03/03-container-k8s.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-5-K8s))
 
-## 7. DevOps 1 - Intro (13.11.2018)
+## 7. DevOps 1 - Intro / CI / CD / IaC Overview (13.11.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/04/devops1.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-6-ci))
 
-## 8. DevOps 2 - GitLab CI / CD (20.11.2018)
-### Dozent: Tobias
-
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
-
-## 9. DevOps 3 - k8s Helm, k8s in der Public Cloud (27.11.2018)
+## 8. DevOps 2 - k8s Helm, k8s in der Public Cloud (20.11.2018)
 ### Dozent: Peter & Tobias
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 10. Service Disovery & API Gateways 1 (04.12.2018)
+## 9. Service Disovery & API Gateways (27.11.2018)
 ### Dozent: Peter
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 11. Service Discovery & API Gateway 2 (11.12.2018)
+## 10. Security (04.12.2018)
 ### Dozent: Peter
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 12. Security (18.12.2018)
-### Dozent: Peter
-
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
-
-## 13. Data Persistence (08.01.2019)
+## 11. Data Persistence (11.12.2019)
 ### Dozent: Tobias
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 14. Logging & Monitoring (15.01.2019)
+## 12. Logging & Monitoring (08.01.2019)
 ### Dozent: Peter
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 15. UI / UX in Microservice Architekturen & Prüfungsvorbereitung (22.01.2019)
-### Dozent: Gast, Tobias, Peter
+## 13. UI / UX in Microservice Architekturen & Prüfungsvorbereitung (15.01.2019)
+### Dozent: Gast, Tobias
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
