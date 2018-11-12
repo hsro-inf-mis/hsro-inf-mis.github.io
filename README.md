@@ -89,7 +89,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
-## 11. Data Persistence (11.12.2019)
+## 11. Data Persistence, Event Storming, Event Sourcing, CQRS (11.12.2018 & 18.12.2018)
 ### Dozent: Tobias
 
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
