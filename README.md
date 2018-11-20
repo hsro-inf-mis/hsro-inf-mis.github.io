@@ -77,7 +77,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 8. DevOps 2 - k8s Helm, k8s in der Public Cloud (20.11.2018)
 ### Dozent: Peter & Tobias
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/08/release-management-helm.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-6-k8s-helm))
 
 ## 9. Service Disovery & API Gateways (27.11.2018)
 ### Dozent: Peter
