@@ -82,7 +82,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 9. Service Disovery & API Gateways (27.11.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/09/service-discovery-and-api-gateways.pdf))
 
 ## 10. Security (04.12.2018)
 ### Dozent: Peter
@@ -105,4 +105,5 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 --- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
 
 *Alle Angaben vorbehaltlich von Änderungen.*
+
 
