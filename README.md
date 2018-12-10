@@ -42,12 +42,12 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 1. Building Blocks for Microservices & Tooling (02.10.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/01/introduction.pdf), [Vorlesungsmaterialien 2](https://hsro-inf-mis.github.io/assets/01/building-blocks.pdf), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/01/introduction.pdf), [Vorlesungsmaterialien 2](/assets/01/building-blocks.pdf), [Übungsaufgaben](#))
 
 ## 2. Webprogramming Basics - Play2 Webframework (09.10.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/02/webservices-with-scala-1.pdf), [Übungsaufgaben](https://hsro-inf-mis.github.io/assets/02/Exercises.pdf))
+--- ([Vorlesungsmaterialien](/assets/02/webservices-with-scala-1.pdf), [Übungsaufgaben](/assets/02/Exercises.pdf))
 
 ## 3. Container - Basics (16.10.2018)
 ### Dozent: Peter
@@ -57,7 +57,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 4. Webprogramming Basics 2 - Play2 Webframework (23.10.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](https://hsro-inf-mis.github.io/assets/02/webservices-with-scala-2.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/play2-iot-manager))
+--- ([Vorlesungsmaterialien](/assets/02/webservices-with-scala-2.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/play2-iot-manager))
 
 ## 5. Container 2 - Advanced (30.10.2018)
 ### Dozent: Peter
@@ -87,7 +87,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 10. Security (04.12.2018)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/10/10-security.pdf), [Übungsaufgaben](#))
 
 ## 11. Data Persistence, Event Storming, Event Sourcing, CQRS (11.12.2018 & 18.12.2018)
 ### Dozent: Tobias
