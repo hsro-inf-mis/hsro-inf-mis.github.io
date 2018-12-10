@@ -92,7 +92,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 11. Data Persistence, Event Storming, Event Sourcing, CQRS (11.12.2018 & 18.12.2018)
 ### Dozent: Tobias
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/11/11-persistence.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-11))
 
 ## 12. Logging & Monitoring (08.01.2019)
 ### Dozent: Peter
