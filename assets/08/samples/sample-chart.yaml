@@ -1,0 +1,19 @@
+apiVersion: v1
+name: hello-chart
+version: 1.2.3
+kubeVersion: 1.12.0
+description: My sample chart description
+keywords:
+  - sample
+home: https://ssample.github.io/chart-sample
+sources:
+  - https://github.com/ssample/chart-sample
+maintainers: # (optional)
+  - name: Simon Sample
+    email: ssample@gmail.com
+    url: https://www.linkedin.com/in/ssample-2349234
+engine: gotpl # The name of the template engine (optional, defaults to gotpl)
+icon: https://github.com/ssample/chart-sample/draft/blob/master/assets/icon.svg
+appVersion: 1.2
+deprecated: false
+tillerVersion: 2.11.0

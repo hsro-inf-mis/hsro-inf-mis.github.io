@@ -1,0 +1,14 @@
+version: '2.1'
+
+services:
+  postgres:
+    image: "postgres"
+    environment:
+    - POSTGRES_PASSWORD=dbpassword
+    ports:
+    - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "psql -U dbuser -d db1 -c 'SELECT 1'"]
+      interval: 10s
+      timeout: 5s
+      retries: 20

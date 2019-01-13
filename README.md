@@ -52,6 +52,10 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 3. Container - Basics (16.10.2018)
 ### Dozent: Peter
 
+#### Samples
+
+* [Dockerfile](/assets/03/samples/simple-python.dockerfile)
+
 --- ([Vorlesungsmaterialien](/assets/03/03-container-basics.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-2-Container))
 
 ## 4. Webprogramming Basics 2 - Play2 Webframework (23.10.2018)
@@ -62,10 +66,27 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 5. Container 2 - Advanced (30.10.2018)
 ### Dozent: Peter
 
+#### Samples
+
+* [Multi stage build](/assets/03/samples/multi-stage.dockerfile)
+* [Dockerfile with healthcheck](/assets/03/samples/healthcheck.dockerfile)
+* [docker-compose.yml with healthcheck](/assets/03/samples/docker-compose-healthcheck.yml)
+* [Kubernetes pod with livenessProbe](/assets/03/samples/k8s-livenessprobe.yml)
+* [docker-compose.yml for scaling](/assets/03/samples/docker-compose-scaling.yml)
+* [docker-compose.yml with custom networks](/assets/03/samples/docker-compose-networks.yml)
+* [docker-compose.yml with container links](/assets/03/samples/docker-compose-links.yml)
+
 --- ([Vorlesungsmaterialien](/assets/03/03-container-advanced.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-4-Docker-Compose))
 
 ## 6. Container 3 - Minikube & Kubernetes (06.11.2018)
 ### Dozent: Peter
+
+#### Samples
+
+* [Simple Kubernetes pod](/assets/03/samples/k8s-simple-pod.yml)
+* [Simple Kubernetes deployment](/assets/03/samples/k8s-simple-deployment.yml)
+* [Simple Kubernetes service](/assets/03/samples/k8s-simple-svc.yml)
+* [Simple Kubernetes ingress](/assets/03/samples/k8s-simple-ingress.yml)
 
 --- ([Vorlesungsmaterialien](/assets/03/03-container-k8s.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-5-K8s))
 
@@ -76,6 +97,13 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 
 ## 8. DevOps 2 - k8s Helm, k8s in der Public Cloud (20.11.2018)
 ### Dozent: Peter & Tobias
+
+#### Samples
+
+* [Chart.yaml](/assets/08/samples/sample-chart.yaml)
+* [requirements.yaml](/assets/08/samples/sample-requirements.yaml)
+* [Built-In objects](/assets/08/samples/sample-configmap.yaml)
+* [Pipelines](/assets/08/samples/sample-configmap2.yaml)
 
 --- ([Vorlesungsmaterialien](/assets/08/release-management-helm.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/Exercise-6-k8s-helm))
 
@@ -97,7 +125,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 12. Logging & Monitoring (08.01.2019)
 ### Dozent: Peter
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/12/12-logging-monitoring.pdf), [Übungsaufgaben](#))
 
 ## 13. UI / UX in Microservice Architekturen & Prüfungsvorbereitung (15.01.2019)
 ### Dozent: Gast, Tobias

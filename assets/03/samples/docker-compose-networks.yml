@@ -1,0 +1,14 @@
+version: '3.6'
+services:
+  svc1:
+    image: ...
+    networks:
+    - net1
+  svc2:
+    image: ...
+    networks:
+    - net2
+
+networks:
+  net1: {}
+  net2: {}

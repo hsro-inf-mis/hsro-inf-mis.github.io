@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  database:
+    image: postgres:alpine
+    environment:
+      - POSTGRES_PASSWORD=W@c[3~DV>~:]4%+5
+  icndb:
+    image: baez90/jericho-victim:latest
+    depends_on:
+      - database
