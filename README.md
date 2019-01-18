@@ -130,7 +130,7 @@ Die gelernten Themen werden durch Übungsaufgaben vertieft.
 ## 13. UI / UX in Microservice Architekturen & Prüfungsvorbereitung (15.01.2019)
 ### Dozent: Gast, Tobias
 
---- ([Vorlesungsmaterialien](#), [Übungsaufgaben](#))
+--- ([Vorlesungsmaterialien](/assets/13/13-ui.pdf), [Übungsaufgaben](https://github.com/hsro-inf-mis/exercise-ui))
 
 *Alle Angaben vorbehaltlich von Änderungen.*
 
